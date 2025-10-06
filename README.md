@@ -25,3 +25,10 @@ are not solid, they reflect much of their light back towards the light, leaving 
 
 Additional parameters were added to make results more appealing, for example a fog was added for the demo scene, and an ambient light was added into the calculations so dark sides of clouds are not completely black.
 In the future, I will be incorporating this into my larger projects, and will be optimizing its algorithm so it can achieve 60fps at full resolution.
+
+## **Results**
+
+<img width="1456" height="453" alt="Clouds_After" src="https://github.com/user-attachments/assets/5fac4f6b-733c-489b-b6e7-6b1ea1acdf72" />
+<img width="1512" height="846" alt="Clouds_Demo_Mountain" src="https://github.com/user-attachments/assets/f6fba5b1-a527-4e86-8aa8-a56435c22779" />
+<img width="1511" height="840" alt="Clouds_Demo_BackScatter" src="https://github.com/user-attachments/assets/eb948dbe-e518-4bea-b718-27928c56ce91" />
+
