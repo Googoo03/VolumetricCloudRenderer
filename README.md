@@ -29,6 +29,9 @@ In the future, I will be incorporating this into my larger projects, and will be
 ## **Results**
 
 <img width="1456" height="453" alt="Clouds_After" src="https://github.com/user-attachments/assets/5fac4f6b-733c-489b-b6e7-6b1ea1acdf72" />
+Initial tests with low density clouds and ambient color mixed in.
 <img width="1512" height="846" alt="Clouds_Demo_Mountain" src="https://github.com/user-attachments/assets/f6fba5b1-a527-4e86-8aa8-a56435c22779" />
+Demo scene with mountain asset. Fog was added using Beer's Law. Banding artifacts can be seen, this is a result of the fixed steps taken in the algorithm, and is visible in most AAA implementations with high density clouds.
 <img width="1511" height="840" alt="Clouds_Demo_BackScatter" src="https://github.com/user-attachments/assets/eb948dbe-e518-4bea-b718-27928c56ce91" />
+Same demo scene, but from top view, displaying the forward scattering effect of clouds.
 
